@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Creating a home network</b>
-  - [Home Network](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Home Network]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/aremu07/Home-Network-Lab/edit/main/README.md))
 
 <h2> 🤳 Connect with me:</h2>
 
